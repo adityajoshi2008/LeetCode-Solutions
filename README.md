@@ -14,3 +14,11 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 
 **Language:** C++
 **Goal:** Improve problem-solving and DSA skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+<!---LeetCode Topics End-->
