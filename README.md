@@ -31,6 +31,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -44,6 +45,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
