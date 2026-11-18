@@ -29,9 +29,15 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 ## Array
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
