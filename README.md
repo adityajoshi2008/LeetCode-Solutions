@@ -31,11 +31,13 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
