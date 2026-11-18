@@ -26,4 +26,12 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
