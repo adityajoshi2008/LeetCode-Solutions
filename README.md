@@ -32,6 +32,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -40,6 +41,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -62,6 +64,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
