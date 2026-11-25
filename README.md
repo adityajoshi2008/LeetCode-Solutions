@@ -66,6 +66,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0709-to-lower-case) |
