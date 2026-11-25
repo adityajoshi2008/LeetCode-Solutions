@@ -33,6 +33,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 | [0027-remove-element](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -42,6 +43,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -49,6 +51,7 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
