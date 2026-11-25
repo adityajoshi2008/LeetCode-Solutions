@@ -58,4 +58,16 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
