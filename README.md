@@ -62,12 +62,22 @@ My solutions to LeetCode problems while practicing **Data Structures & Algorithm
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityajoshi2008/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
